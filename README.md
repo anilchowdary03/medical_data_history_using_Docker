@@ -1,4 +1,4 @@
-## Medical Data History SQL Project
+# Medical Data History SQL Project
 
 # Project Overview
 
